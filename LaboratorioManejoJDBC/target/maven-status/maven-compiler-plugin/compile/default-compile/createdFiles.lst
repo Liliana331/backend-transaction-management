@@ -1,0 +1,9 @@
+datos\ConexionDB.class
+domain\Persona.class
+udemy\mysql\jdbc\MostrarConsulta.class
+datos\UsuarioDAO.class
+domain\Usuario.class
+test\TestManejoUsuarios.class
+datos\Conexion.class
+datos\PersonaDAO.class
+test\TestManejoPersonas.class
